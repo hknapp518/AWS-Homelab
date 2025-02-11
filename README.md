@@ -1,5 +1,5 @@
 
-# AWS Cybersecurity Lab Built with Terraform
+# Building an AWS Cybersecurity Lab Using Terraform
  
 
 ## Objective
