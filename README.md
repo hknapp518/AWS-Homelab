@@ -2,8 +2,6 @@
 # AWS Cybersecurity Lab Built with Terraform
 Deploying 3 machines in AWS to practice my defending and attacking on VMs. 
 
-git clone https://github.com/yourusername/cybersecurity-lab.git
-cd cybersecurity-lab
 
 ## Steps
 
